@@ -1316,7 +1316,7 @@ button.button {
 }
 
 /* Responsive */
-@media (max-width: 1440px) {
+@media (max-width: 1200px) {
   .hero-media {
     grid-template-columns: 1fr;
     padding-top: 24px;
